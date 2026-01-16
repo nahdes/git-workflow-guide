@@ -125,3 +125,9 @@ git push -u origin main
 ```
 
 💡 A great commit is atomic, clear, and reversible — treat it like a small, meaningful story.
+
+# Comment Amending
+
+```bash
+ git commit --amend
+```
